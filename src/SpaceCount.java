@@ -5,7 +5,7 @@ public class SpaceCount {
 		// TODO Auto-generated method stub
 
 		 int c=0;
-	    String str= "My name is aaa";
+	    String str= "My name is aaa  ";
 		    
 		        for(int i=0 ; i<str.length();i++)
 		        {
